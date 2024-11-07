@@ -1,0 +1,22 @@
+{
+  "name": "markov",
+  "version": "1.0.0",
+  "description": "Markov Exercise",
+  "main": "makeText.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luisirizarry/Node-Markov-Exercise.git"
+  },
+  "author": "luis irizarry",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luisirizarry/Node-Markov-Exercise/issues"
+  },
+  "homepage": "https://github.com/luisirizarry/Node-Markov-Exercise#readme",
+  "dependencies": {
+    "axios": "^1.7.7"
+  }
+}
